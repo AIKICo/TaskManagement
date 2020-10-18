@@ -13,28 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29da6097-fa9b-419a-a3dd-8ee3cbd0ab22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.taskmanagement/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.taskmanagement/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.taskmanagement/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.taskmanagement/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.taskmanagement/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.taskmanagement/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.taskmanagement/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.taskmanagement/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIKI.CO.TaskManagement.WebAPI/AIKI.CO.TaskManagement.WebAPI.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIKI.CO.TaskManagement.WebAPI/Controllers/WeatherForecastController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIKI.CO.TaskManagement.WebAPI/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIKI.CO.TaskManagement.WebAPI/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIKI.CO.TaskManagement.WebAPI/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIKI.CO.TaskManagement.WebAPI/WeatherForecast.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIKI.CO.TaskManagement.WebAPI/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIKI.CO.TaskManagement.WebAPI/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIKI.CO.TaskManagement.WebApi.IntegrationTests/AIKI.CO.TaskManagement.WebApi.IntegrationTests.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIKI.CO.TaskManagement.WebApi.IntegrationTests/UnitTest1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskmanagement.sln" afterDir="false" />
-    </list>
+    <list default="true" id="29da6097-fa9b-419a-a3dd-8ee3cbd0ab22" name="Default Changelist" comment="Initialize Project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,8 +85,16 @@
       <option name="presentableId" value="Default" />
       <updated>1602995602268</updated>
       <workItem from="1602995606773" duration="311000" />
-      <workItem from="1602998596407" duration="333000" />
+      <workItem from="1602998596407" duration="382000" />
     </task>
+    <task id="LOCAL-00001" summary="Initialize Project">
+      <created>1602998942777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602998942777</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,11 +117,25 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initialize Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialize Project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2315" y="198" width="800" height="537" key="Rider.ProjectTemplateDialog.Size" timestamp="1602995891986">
       <screen x="1920" y="0" width="1600" height="900" />
     </state>
     <state x="2315" y="198" width="800" height="537" key="Rider.ProjectTemplateDialog.Size/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1602995891986" />
+    <state x="2315" y="199" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1602998945308">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2315" y="199" width="800" height="535" key="Vcs.Push.Dialog.v2/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1602998945308" />
+    <state x="2501" y="378" width="437" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602998808991">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2501" y="378" width="437" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1602998808991" />
+    <state x="2524" y="375" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602998804765">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2524" y="375" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog/1920.0.1600.900/0.27.1920.1053@1920.0.1600.900" timestamp="1602998804765" />
   </component>
 </project>
