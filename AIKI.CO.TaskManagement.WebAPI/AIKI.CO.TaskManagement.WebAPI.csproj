@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="AutoMapperSettings" />
+      <Folder Include="certificate" />
+      <Folder Include="CustomActionFilters" />
+      <Folder Include="CustomMiddleware" />
+      <Folder Include="DataProtectionKeys" />
+      <Folder Include="Extensions" />
+      <Folder Include="HubController" />
+      <Folder Include="Models\DTO" />
+      <Folder Include="Models\Entities" />
+      <Folder Include="ServiceExtensions" />
+      <Folder Include="Services" />
+      <Folder Include="Settings" />
+    </ItemGroup>
+
+
+</Project>
